@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/8756thoguqj8fv5n?svg=true)](https://ci.appveyor.com/project/yuann369/aqa-2-3)
+[![Build status](https://ci.appveyor.com/api/projects/status/2jgui3l70jijnkc6?svg=true)](https://ci.appveyor.com/project/yuann369/aqa-reporting)
